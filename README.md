@@ -2,7 +2,7 @@
 
 A modern web application for discovering and sharing book recommendations, inspired by AniList but designed for book lovers!
 
-🌐 **Live Site**: [https://narasimman1501.github.io/booklist.github.io/](https://narasimman1501.github.io/booklist.github.io/)
+🌐 **Live Site**: [https://narasimman1501.github.io/booklist.github.io/](https://narasimman1501.github.io/)
 
 ## ✨ Current Features (Phase 1 & 2)
 
